@@ -301,7 +301,6 @@ The project includes comprehensive visualizations:
 
 - 📧 Email: [arunavaphadikar@gmail.com](mailto:arunavaphadikar@gmail.com)
 - 💼 LinkedIn: [arunava-phadikar](https://www.linkedin.com/in/arunava-phadikar-9ab1001a5)
-- 🏆 Kaggle: [@arunavaphadikar](https://www.kaggle.com/arunavaphadikar)
 
 ---
 
